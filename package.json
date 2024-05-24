@@ -1,5 +1,8 @@
 {
+  "homepage": "http://mycodetherapy.github.io/tree-render",
+  "name": "tree-render",
   "devDependencies": {
-    "@types/node": "^20.12.12"
+    "@types/node": "^20.12.12",
+    "gh-pages": "^6.1.1"
   }
 }
